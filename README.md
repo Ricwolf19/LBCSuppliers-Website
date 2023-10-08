@@ -19,5 +19,5 @@ This website is a representation of LBC Suppliers, showcasing a contribution sys
 - The original website: [LBC Suppliers (Old)](https://lbcsuppliers.com/)
 - The new and official version hosted for the enterprise: [LBC Suppliers (New)](https://lbcsuppliers.online/)
 
-Feel free to explore and experiment!
+Feel free to explore and experiment (THE DATABASE IS ON TESTING - ADMIN SIDE IS NOT AVILABLE)!
 
